@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">وصفاتي</string>
+    <string name="addButtonText">إضافة</string>
+    <string name="mainTextViewText">الوصفات</string>
+    <string name="AddOrEditText">إضافة</string>
+    <string name="QuantityText">المقادير</string>
+    <string name="QuantityHintText">المقادير...</string>
+    <string name="ProductionText">طريقة التحضير</string>
+    <string name="ProductionHintText">طريقة التحضير...</string>
+    <string name="CancleButtonText">إلغاء</string>
+    <string name="SaveButtonText">حفظ</string>
+    <string name="EditButtonText">تعديل</string>
+    <string name="DeleteButtonText">حذف</string>
+    <string name="CookingHintText">إسم الوصفة</string>
+    <string name="CookingNameText">إسم الطبق :</string>
+</resources>
